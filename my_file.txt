@@ -1,0 +1,5 @@
+First Git Push
+1. initialize Git
+2. add somethings i don't even understand
+3. pretend like you're getting some kind of understanding
+4. push files to Git
